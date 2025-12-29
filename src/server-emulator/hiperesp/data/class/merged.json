@@ -1468,5 +1468,15 @@
         "savable": 2,
         "armorId": 9800145,
         "weaponId": 9800144
+    },
+    {
+        "id": 1009,
+        "name": "Sepulchure",
+        "element": "Darkness",
+        "equippable": "Sword,Mace,Dagger,Axe,Ring,Necklace,Staff,Belt,Earring,Bracer,Pet,Cape,Wings,Armor,Wand,Scythe,Trinket,Artifact",
+        "swf": "class-sepulchure.swf",
+        "savable": 2,
+        "armorId": 9904457,
+        "weaponId": 9904456
     }
 ]
