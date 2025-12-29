@@ -1,4 +1,4 @@
-/src/cdn/gamefiles/**
+
 !/src/cdn/gamefiles/game*-patched.swf
 !/src/cdn/gamefiles/.htaccess
 !/src/cdn/gamefiles/local.php
