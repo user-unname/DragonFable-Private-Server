@@ -22,7 +22,7 @@ The updated guide is available at [here](https://github.com/hiperesp/DragonFable
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/hiperesp/DragonFable-Private-Server/
+    git clone https://github.com/shandymodders/DragonFable-Private-Server
     cd DragonFable-Private-Server
     ```
 
