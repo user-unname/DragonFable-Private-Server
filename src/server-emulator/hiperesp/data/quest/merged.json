@@ -47356,5 +47356,26 @@
         "monsterMaxLevel": 100,
         "monsterType": "DeathKnight and Co",
         "monsterGroupSwf": "mset-arenamalifact.swf?ver=69"
+    },
+    {
+        "id": 2295,
+        "swf": "towns/3OceanTyndur/quest3-lineinthesnow.swf?ver=6",
+        "swfX": "towns/3OceanTyndur/quest3-lineinthesnow-x.swf?ver=2",
+        "extra": "",
+        "name": "Line in the Snow",
+        "description": "The fresh Hollow are coming from further north. Follow their trail onward, into the territories beyond...",
+        "complete": "You've been granted passage by Queen Aisha, and Galanoth has entrusted the rest of the mission to you and Vilmor.",
+        "maxSilver": 0,
+        "maxGold": 15000,
+        "maxGems": 0,
+        "maxExp": 50000,
+        "minTime": 0,
+        "counter": 1293,
+        "dailyIndex": 0,
+        "dailyReward": 0,
+        "monsterMinLevel": 1,
+        "monsterMaxLevel": 100,
+        "monsterType": "Cold Call Hollow",
+        "monsterGroupSwf": "mset-vilmorBk3.swf?ver=5"
     }
 ]

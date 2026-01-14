@@ -1778,5 +1778,37 @@
     {
         "id": 450,
         "name": "AARGH Rewards 5"
+    },
+    {
+        "id": 445,
+        "name": "Vampire Booth 2025"
+    },
+    {
+        "id": 446,
+        "name": "Cysero's Booth 2025"
+    },
+    {
+        "id": 447,
+        "name": "Brittle Spears Booth 2025"
+    },
+    {
+        "id": 448,
+        "name": "Bubble's Booth 2025"
+    },
+    {
+        "id": 449,
+        "name": "Circe's Booth 2025"
+    },
+    {
+        "id": 451,
+        "name": "Aika Fronds"
+    },
+    {
+        "id": 452,
+        "name": "Theater of Frost"
+    },
+    {
+        "id": 453,
+        "name": "Malifact's Fall"
     }
 ]

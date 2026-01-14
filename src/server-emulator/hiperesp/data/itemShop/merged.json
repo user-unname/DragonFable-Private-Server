@@ -4093,5 +4093,70 @@
         "id": 835,
         "name": "RQG2 Loot for DCs",
         "count": -100
+    },
+    {
+        "id": 836,
+        "name": "AHFA Loot for DCs",
+        "count": -100
+    },
+    {
+        "id": 837,
+        "name": "TA Loot for DCs",
+        "count": -100
+    },
+    {
+        "id": 838,
+        "name": "Cold Call Loot for DCs",
+        "count": -100
+    },
+    {
+        "id": 839,
+        "name": "CandyCon Gummy Gemstone",
+        "count": -100
+    },
+    {
+        "id": 840,
+        "name": "Mask Shop 4",
+        "count": -100
+    },
+    {
+        "id": 841,
+        "name": "aTGC Loot for DCs",
+        "count": -100
+    },
+    {
+        "id": 842,
+        "name": "TheProf Loot for DCs",
+        "count": -100
+    },
+    {
+        "id": 843,
+        "name": "Neverglades Frond",
+        "count": -100
+    },
+    {
+        "id": 844,
+        "name": "Cold Open Loot for DCs",
+        "count": -100
+    },
+    {
+        "id": 845,
+        "name": "ES Loot for DCs",
+        "count": -100
+    },
+    {
+        "id": 846,
+        "name": "Sword of Hope",
+        "count": -100
+    },
+    {
+        "id": 847,
+        "name": "LitS Loot for DCs",
+        "count": -100
+    },
+    {
+        "id": 848,
+        "name": "New Years 2010",
+        "count": -100
     }
 ]
