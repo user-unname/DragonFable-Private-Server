@@ -46572,7 +46572,7 @@
         "maxExp": 0,
         "minTime": 0,
         "counter": 0,
-        "extra": "Croft=towns/Mogloween/M25/town-candycon2025.swf?ver=7CroftX=towns/Mogloween/M25/town-candycon2025-x.swf?ver=6Barber=towns/Mogloween/M24/shop-CroftBarber-r1.swf",
+        "extra": "Croft=towns\/Mogloween/M25\/town-candycon2025.swf?ver=7\nCroftX=towns\/Mogloween\/M25\/town-candycon2025-x.swf?ver=6\nBarber=towns\/Mogloween\/M24\/shop-CroftBarber-r1.swf",
         "dailyIndex": 0,
         "dailyReward": 0,
         "monsterMinLevel": 0,
