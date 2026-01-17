@@ -20,13 +20,20 @@ The updated guide is available at [here](https://github.com/hiperesp/DragonFable
 
 ### Steps:
 
-1. Clone this repository:
+1. Clone this repository(Copy paste in cmd/powershell):
     ```sh
     git clone https://github.com/shandymodders/DragonFable-Private-Server
+    ```
+2. copy paste this also to cmd
+   ```sh
     cd DragonFable-Private-Server
     ```
+last copy paste this also to cmd
+    ```sh
+    docker-compose up
+    ```
 
-2. Configure the server:
+3. Configure the server:
     - Using environment variables:
         Read the `/src/server-emulator/.config.default.php` file and set the environment variables accordingly.
     - Using a .config.php file:
@@ -36,7 +43,7 @@ The updated guide is available at [here](https://github.com/hiperesp/DragonFable
 
     **Note**: If you don't create the `.config.php` file, the server will use the default system environment variables.
 
-3. (Optional) Download the offline gamefiles from [mega, click here](https://mega.nz/file/vQ9CDQKK#xa3g9WW8sAGukSoDhtBThgpwA2KSfHke2RalfC4ZO7k) (updated at 2025-08-27) and extract it to `/src/cdn/gamefiles/`\
+4. (Optional) Download the offline gamefiles from [mega, click here](https://mega.nz/file/vQ9CDQKK#xa3g9WW8sAGukSoDhtBThgpwA2KSfHke2RalfC4ZO7k) (updated at 2025-08-27) and extract it to `/src/cdn/gamefiles/`\
     **Note**: If you don't download the gamefiles, the server will progressively download them as each game file is requested **only if you use the `cache` mode at `gamefilesPath` settings**. This means that as you play, the server will fetch the necessary files in real-time, ensuring you can continue playing without interruption.
 
 ### Usage:
