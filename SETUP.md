@@ -28,7 +28,7 @@ The updated guide is available at [here](https://github.com/hiperesp/DragonFable
    ```sh
     cd DragonFable-Private-Server
     ```
-3.last copy paste this also to cmd
+3. last Copy and paste to cmd:
     ```sh
     docker-compose up
     ```
