@@ -4,6 +4,20 @@ A private server for DragonFable, allowing custom game and server file locations
 
 This project allows you to run a private server for DragonFable with customizable game and server file locations.
 
+## ⚠️ Important Notice
+
+This project is not currently expected to receive further updates. It remains public for anyone who wishes to study, reuse, or adapt it, and future changes are possible but not planned at this time.
+
+However, the community continues to maintain active forks — such as:
+
+**shandymodders**: https://github.com/shandymodders/DragonFable-Private-Server
+
+If you maintain an active fork and would like it to be added to the community list, feel free to open an issue or send me an email at gabrielramos149@gmail.com
+
+### Disclaimer
+
+All listed forks are maintained by their respective developers. I am not responsible for any changes, decisions, content, or updates made in those projects.
+
 ## Setup and Upgrading:
 
 See [SETUP](SETUP.md) for more information on how to setup the server.
