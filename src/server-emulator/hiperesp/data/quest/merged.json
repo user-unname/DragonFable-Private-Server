@@ -47377,5 +47377,26 @@
         "monsterMaxLevel": 100,
         "monsterType": "Cold Call Hollow",
         "monsterGroupSwf": "mset-vilmorBk3.swf?ver=5"
+    },
+    {
+        "id": 2296,
+        "swf": "towns/aika/quest-13beachwar.swf?ver=9",
+        "swfX": "none",
+        "extra": "",
+        "name": "Beach Vacation Invasion",
+        "description": "Your beach vacation is suddenly under attack! You have to save Aika Village before it's too hot for anyone!",
+        "complete": "You did it! You managed to beat the forces of both Xan and the mysterious Necromantress! But what plans does Sepulchure have for Falconreach?",
+        "maxSilver": 0,
+        "maxGold": 20000,
+        "maxGems": 0,
+        "maxExp": 100000,
+        "minTime": 0,
+        "counter": 1695,
+        "dailyIndex": 0,
+        "dailyReward": 0,
+        "monsterMinLevel": 1,
+        "monsterMaxLevel": 100,
+        "monsterType": "Light and Dark",
+        "monsterGroupSwf": "mset-friday13beach.swf?ver=7"
     }
 ]

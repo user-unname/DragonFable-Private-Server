@@ -43223,5 +43223,50 @@
         "id": 8645,
         "questId": 2295,
         "monsterId": 1690
+    },
+    {
+        "id": 8646,
+        "questId": 2296,
+        "monsterId": 85
+    },
+    {
+        "id": 8647,
+        "questId": 2296,
+        "monsterId": 86
+    },
+    {
+        "id": 8648,
+        "questId": 2296,
+        "monsterId": 87
+    },
+    {
+        "id": 8649,
+        "questId": 2296,
+        "monsterId": 88
+    },
+    {
+        "id": 8650,
+        "questId": 2296,
+        "monsterId": 182
+    },
+    {
+        "id": 8651,
+        "questId": 2296,
+        "monsterId": 183
+    },
+    {
+        "id": 8652,
+        "questId": 2296,
+        "monsterId": 184
+    },
+    {
+        "id": 8653,
+        "questId": 2296,
+        "monsterId": 185
+    },
+    {
+        "id": 8654,
+        "questId": 2296,
+        "monsterId": 186
     }
 ]
