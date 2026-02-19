@@ -53482,5 +53482,29 @@
         "index": 0,
         "value": 0,
         "level": 0
+    },
+	{
+        "id": 4626,
+        "itemId1": 22790,
+        "amount1": 1,
+        "itemId2": 22791,
+        "amount2": 1,
+        "itemId": 22793,
+        "string": 0,
+        "index": 0,
+        "value": 0,
+        "level": 0
+    },
+    {
+        "id": 4627,
+        "itemId1": 22792,
+        "amount1": 1,
+        "itemId2": 22793,
+        "amount2": 1,
+        "itemId": 22794,
+        "string": 0,
+        "index": 0,
+        "value": 0,
+        "level": 0
     }
 ]

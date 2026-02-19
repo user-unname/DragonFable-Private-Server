@@ -4158,5 +4158,25 @@
         "id": 848,
         "name": "New Years 2010",
         "count": -100
+    },
+    {
+        "id": 849,
+        "name": "Aika Souvenirs",
+        "count": -100
+    },
+    {
+        "id": 850,
+        "name": "AFF Loot for DCs",
+        "count": -100
+    },
+    {
+        "id": 851,
+        "name": "DS Loot for DCs",
+        "count": -100
+    },
+    {
+        "id": 852,
+        "name": "EH Loot for DCs",
+        "count": -100
     }
 ]
